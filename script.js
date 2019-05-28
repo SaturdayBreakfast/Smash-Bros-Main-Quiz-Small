@@ -15,7 +15,7 @@ $("#Maybe").click(function(){
     
     
     if (groundAirInput==="air" && lightHeavyInput >=70) { 
-         $("#answer").html("Someone like King Dedede or Ridley, who, while being hevay, can still do well in the air. Although, Dedede has more usability in straight air combat with his multiple jumps.<img src=\"https://vignette.wikia.nocookie.net/ssb/images/5/5a/Jet4.jpg/revision/latest?cb=20140305100659\">"); }
+         $("#answer").html("Someone like King Dedede or Ridley, who, while being hevay, can still do well in the air. Although, Dedede has more usability in straight air combat with his multiple jumps, and ridley with his side special.<img src=\"https://vignette.wikia.nocookie.net/ssb/images/5/5a/Jet4.jpg/revision/latest?cb=20140305100659\">"); }
         
     
     if (groundAirInput==="air" && lightHeavyInput >=70) { 
